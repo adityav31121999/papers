@@ -1,2 +1,2 @@
-# papers
-these are my work that i did in my past time, thoughi tried, they never got published
+# PAPERS
+- This repository holds some of work I have done
