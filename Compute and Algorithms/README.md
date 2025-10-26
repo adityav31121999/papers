@@ -1,1 +1,0 @@
-# Compute and Algorithm
